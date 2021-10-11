@@ -1,0 +1,30 @@
+
+
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    border: 2px solid grey;
+    font-weight: 600;
+   
+}
+
+img {
+       
+    width: 150px;
+    height: 150px;
+           
+}
+
+.card {
+    width: 30%;
+   
+}
+
+  
+
+.components {
+    height: 80%;
+    flex-direction: column;
+    text-align: center;
+    
+}
