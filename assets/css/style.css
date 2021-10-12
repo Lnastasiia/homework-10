@@ -14,17 +14,11 @@ img {
     height: 150px;
            
 }
-
-.card {
-    width: 30%;
-   
+.card-text {
+    text-align: justify;
 }
+
+
 
   
 
-.components {
-    height: 80%;
-    flex-direction: column;
-    text-align: center;
-    
-}
